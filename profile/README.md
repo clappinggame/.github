@@ -27,4 +27,4 @@ Clappinggame is an open-source organization jointly founded by clappinggame enth
 
 ### Welcome
 
-This is a public welfare open source project. We understand that there are different clapping games in different places, so we plan to open source so that more people can play clapping games and find more clapping game versions.
+This is a public welfare open source project. We understand that there are different clapping games in different places, so we plan to open source so that more people can play clapping games and find more clappinggame versions.
