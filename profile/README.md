@@ -12,3 +12,19 @@ Gitee地址（国内加速） https://gitee.com/clappinggame
 
 ### 欢迎您
 这里是一个公益性质的开源项目，我们了解到各个地方会有不同的拍手游戏，于是我们打算开源让更多的人能够会玩拍手游戏，和发现更多的拍手游戏版本。
+
+------------------
+
+# Clappinggame
+
+Clappinggame is a kind of real-time strategic psychological game, which can be played with only hands. It uses gestures to convey information, and it is convenient to fight. It can use a lot of fragmented time, you can play anytime. The game time is short, and even many people can play together or even play remotely!
+
+## We have now started GitHub Repositories! Let players at home and abroad experience the clappinggame!
+
+GitHub spaces: https://github.com/clappinggame
+
+Clappinggame is an open-source organization jointly founded by clappinggame enthusiasts on the basis of fun, fast, open and open source. It is committed to moving hand games online through open-source and open team cooperation and promoting the prosperity and development of clapping games and their online pages.
+
+### Welcome
+
+This is a public welfare open source project. We understand that there are different clapping games in different places, so we plan to open source so that more people can play clapping games and find more clapping game versions.
