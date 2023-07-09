@@ -8,7 +8,11 @@
 
 GitHub地址 https://github.com/clappinggame
 
-Gitee地址（国内加速）（目前暂时不发布到Gitee） https://gitee.com/clappinggame
+GitHub仓库地址 https://github.com/clappinggame/clappinggame.github.io
+
+Gitee地址（国内加速） https://gitee.com/clappinggame
+
+Gitee仓库地址（注意仓库名不同） https://gitee.com/clappinggame/clappinggame
 
 拍手游戏是在好玩、快捷、开放、开源的基础上，由拍手游戏的爱好者共同创立的一个开源组织，致力于通过开源、开放的团队合作，将手上游戏移到线上，推动拍手游戏及其在线网页繁荣发展。
 
