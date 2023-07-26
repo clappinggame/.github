@@ -8,6 +8,8 @@
 
 开源版H5网页Demo游戏(人机对战): https://clappinggame.github.io
 
+基于开源版H5网页的官网: https://www.clappinggame.com
+
 游戏教程: https://clappinggame.github.io/tutorial.html
 
 ## 我们现已将代码开放到GitHub仓库！让所有玩家都能免费体验到拍手游戏！
@@ -21,6 +23,8 @@ GitHub仓库地址 https://github.com/clappinggame/clappinggame.github.io
 
 ### 欢迎您
 这里是一个公益性质的开源项目，我们了解到各个地方会有不同的拍手游戏，于是我们打算开源让更多的人能够会玩拍手游戏，和发现更多的拍手游戏版本。
+
+联系方式(E-mail) : clappinggame@clappinggame.com
 
 ------------------
 
